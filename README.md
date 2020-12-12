@@ -10,3 +10,4 @@ by click on drop down and created a new branch
 which is the copy of the main branch exactly similar to it
 helpful for experimentation to b4 we commit them in the main branch
 whatever we commit the changes now will saved in this feature branch
+if i create a branch from another branch it will have the contanet of the main branch and branch 1
