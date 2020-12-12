@@ -4,4 +4,4 @@ start a project
 give a short name git repo
 des is optional still appears in  the script 
 readme
-pencil to edit the main default branch 
+pencil to edit the main default branchh 
